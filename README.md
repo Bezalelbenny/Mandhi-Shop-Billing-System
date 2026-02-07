@@ -80,7 +80,7 @@ Final Amount: ₹577.5
 * Academic mini projects
 
 ##Demonstration Vedio
-https://github.com/user-attachments/assets/bc329e19-033e-4653-8c71-af5f988293ec
+https://github.com/Bezalelbenny/Mandhi-Shop-Billing-System/blob/cdd9b8de51be6e8af58948a6d0102e8d4e7d4e9f/MandhiBillingDemo_Professional.mp4
 
 ## Conclusion
 
