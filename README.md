@@ -66,7 +66,9 @@ Final Amount: ₹577.5
 
 ## Screenshots
 ![img1](https://github.com/Bezalelbenny/Mandhi-Shop-Billing-System/blob/eae3be80ff8f09138f371fd4d9a95073a39f68b8/Screenshot%20(12).png)
-![img2]()
+![img2](https://github.com/Bezalelbenny/Mandhi-Shop-Billing-System/blob/5b7914755b4b2f808b7b23bef27f677205a6eced/Screenshot%20(13).png)
+![img3]()
+![img4]()
 ## Applications
 
 * Restaurant billing systems
