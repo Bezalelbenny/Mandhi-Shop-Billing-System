@@ -47,12 +47,12 @@ This project demonstrates the following OOP principles:
 * JScrollPane
 
 ## How to Run the Program
-*Step 1: Install Java JDK.
+* Step 1: Install Java JDK.
 Install Java JDK 8 or higher.
-*Step 2: Open Project in VS Code
-*Step 3: Compile the Program
+* Step 2: Open Project in VS Code
+* Step 3: Compile the Program
 javac MandhiBillingSystem.java in cmd 
-*Step 4: Run the Program
+* Step 4: Run the Program
 java MandhiBillingSystem
 
 ## Sample Input and Output
