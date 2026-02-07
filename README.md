@@ -79,7 +79,7 @@ Final Amount: ₹577.5
 * Learning Java GUI development
 * Academic mini projects
 
-##Demonstration Vedio
+##Demonstration Video
 Link:https://youtu.be/XHt20ljyRUk
 
 ## Conclusion
