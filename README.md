@@ -71,12 +71,16 @@ Final Amount: ₹577.5
 ![img3](https://github.com/Bezalelbenny/Mandhi-Shop-Billing-System/blob/72fe894ad2a31e91a4c6b1a328eaecd5b5e76a62/Screenshot%20(14).png)
 ![img4](https://github.com/Bezalelbenny/Mandhi-Shop-Billing-System/blob/6131f67ffad158c74363af0b33871398633d96cc/Screenshot%20(15).png)
 
+
 ## Applications
 
 * Restaurant billing systems
 * Small business billing
 * Learning Java GUI development
 * Academic mini projects
+
+##Demonstration Vedio
+https://github.com/user-attachments/assets/bc329e19-033e-4653-8c71-af5f988293ec
 
 ## Conclusion
 
