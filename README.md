@@ -67,7 +67,7 @@ Final Amount: ₹577.5
 ## Screenshots
 ![img1](https://github.com/Bezalelbenny/Mandhi-Shop-Billing-System/blob/eae3be80ff8f09138f371fd4d9a95073a39f68b8/Screenshot%20(12).png)
 ![img2](https://github.com/Bezalelbenny/Mandhi-Shop-Billing-System/blob/5b7914755b4b2f808b7b23bef27f677205a6eced/Screenshot%20(13).png)
-![img3]()
+![img3](https://github.com/Bezalelbenny/Mandhi-Shop-Billing-System/blob/72fe894ad2a31e91a4c6b1a328eaecd5b5e76a62/Screenshot%20(14).png)
 ![img4]()
 ## Applications
 
