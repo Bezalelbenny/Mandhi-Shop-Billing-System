@@ -65,7 +65,8 @@ GST (5%): ₹27.5
 Final Amount: ₹577.5
 
 ## Screenshots
-![]()
+![img1](https://github.com/Bezalelbenny/Mandhi-Shop-Billing-System/blob/eae3be80ff8f09138f371fd4d9a95073a39f68b8/Screenshot%20(12).png)
+![img2]()
 ## Applications
 
 * Restaurant billing systems
