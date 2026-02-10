@@ -51,7 +51,7 @@ This project demonstrates the following OOP principles:
 
 ## How to Run the Program
 * Step 1: Install Java JDK.
-Install Java JDK 8 or higher.
+Install Java JDK 8 or higher.and sqlite driver
 * Step 2: Open Project in VS Code
 * Step 3: Compile the Program
 java -cp ".;lib/sqlite-jdbc-3.51.2.0.jar" MandhiBillingSystem in cmd/terminal
