@@ -5,7 +5,7 @@ This project is a simple billing system for a Mandhi shop developed using Java S
 Bezalel Benny(24ubc225) and Joel John Benoy(24ubc237)
 
 ## Problem Statement:
-In many small restaurants and Mandhi shops, billing is often done manually, which can lead to calculation errors, slow service, and inefficient record management. This project aims to develop a simple and user-friendly billing system that automates item selection, quantity input, and bill calculation using a graphical interface.
+In many small restaurants and Mandhi shops, billing is often done manually, which can lead to calculation errors, slow service, and inefficient record management. This project aims to develop a simple and user-friendly billing system that automates item selection, quantity input, and bill calculation using a graphical interface.Also to display the details od customers and their bills ad database.
 
 ## Objective
 The main objective of this project is to design and implement a Mandhi Shop Billing System using Java that can be accessed by anyone:
@@ -14,6 +14,7 @@ The main objective of this project is to design and implement a Mandhi Shop Bill
 * Provides a graphical user interface for easy interaction
 * Demonstrates Object-Oriented Programming (OOP) concepts
 * Uses Java Swing components and event handling
+* Uses Sqlite to display database in vscode
 
 ## Features
 * User-friendly GUI interface
@@ -21,6 +22,7 @@ The main objective of this project is to design and implement a Mandhi Shop Bill
 * Automatic item total calculation
 * GST calculation (5%)
 * Generate final bill amount
+* Stores inside database
 * Clear/reset bill option
 * Error handling for invalid input
 
@@ -29,6 +31,7 @@ The main objective of this project is to design and implement a Mandhi Shop Bill
 * Java Swing (GUI)
 * VS Code (IDE)
 * Object-Oriented Programming (OOP)
+* JDBC using Sqlite
 
 ## OOP Concepts Used
 This project demonstrates the following OOP principles:
@@ -51,9 +54,11 @@ This project demonstrates the following OOP principles:
 Install Java JDK 8 or higher.
 * Step 2: Open Project in VS Code
 * Step 3: Compile the Program
-javac MandhiBillingSystem.java in cmd 
+java -cp ".;lib/sqlite-jdbc-3.51.2.0.jar" MandhiBillingSystem in cmd/terminal
 * Step 4: Run the Program
-java MandhiBillingSystem
+java -cp ".;lib/sqlite-jdbc-3.51.2.0.jar" MandhiBillingSystem
+This will create the database and display the order details
+
 
 ## Sample Input and Output
 Example Bill:
@@ -70,6 +75,7 @@ Final Amount: ₹577.5
 ![img2](https://github.com/Bezalelbenny/Mandhi-Shop-Billing-System/blob/5b7914755b4b2f808b7b23bef27f677205a6eced/Screenshot%20(13).png)
 ![img3](https://github.com/Bezalelbenny/Mandhi-Shop-Billing-System/blob/72fe894ad2a31e91a4c6b1a328eaecd5b5e76a62/Screenshot%20(14).png)
 ![img4](https://github.com/Bezalelbenny/Mandhi-Shop-Billing-System/blob/6131f67ffad158c74363af0b33871398633d96cc/Screenshot%20(15).png)
+Database:
 ![img5](https://github.com/Bezalelbenny/Mandhi-Shop-Billing-System/blob/fceee91339b085d143d41e2c673639f3ff2f7e71/Screenshot%202026-02-10%20181851.png)
 
 ## Applications
@@ -78,6 +84,7 @@ Final Amount: ₹577.5
 * Small business billing
 * Learning Java GUI development
 * Academic mini projects
+* Sqlite is used to connect to database
 
 ##Demonstration Video
 Link:https://youtu.be/XHt20ljyRUk
